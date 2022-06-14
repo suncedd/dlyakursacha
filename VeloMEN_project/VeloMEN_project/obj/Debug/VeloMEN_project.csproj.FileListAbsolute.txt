@@ -1,0 +1,41 @@
+C:\Users\Danil\source\repos\VeloMEN_project\VeloMEN_project\bin\Debug\VeloMEN_project.exe.config
+C:\Users\Danil\source\repos\VeloMEN_project\VeloMEN_project\bin\Debug\VeloMEN_project.exe
+C:\Users\Danil\source\repos\VeloMEN_project\VeloMEN_project\bin\Debug\VeloMEN_project.pdb
+C:\Users\Danil\source\repos\VeloMEN_project\VeloMEN_project\obj\Debug\VeloMEN_project.csprojAssemblyReference.cache
+C:\Users\Danil\source\repos\VeloMEN_project\VeloMEN_project\obj\Debug\VeloMEN_project.Properties.Resources.resources
+C:\Users\Danil\source\repos\VeloMEN_project\VeloMEN_project\obj\Debug\VeloMEN_project.csproj.GenerateResource.cache
+C:\Users\Danil\source\repos\VeloMEN_project\VeloMEN_project\obj\Debug\VeloMEN_project.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\VeloMEN_project\VeloMEN_project\obj\Debug\VeloMEN_project.exe
+C:\Users\Danil\source\repos\VeloMEN_project\VeloMEN_project\obj\Debug\VeloMEN_project.pdb
+C:\Users\Danil\source\repos\VeloMEN_project\VeloMEN_project\obj\Debug\VeloMEN_project.Forma.resources
+C:\Users\Danil\source\repos\VeloMEN_project\VeloMEN_project\bin\Debug\ru\VeloMEN_project.resources.dll
+C:\Users\Danil\source\repos\VeloMEN_project\VeloMEN_project\obj\Debug\VeloMEN_project.Forma.ru.resources
+C:\Users\Danil\source\repos\VeloMEN_project\VeloMEN_project\obj\Debug\ru\VeloMEN_project.resources.dll
+C:\Users\usersql\Desktop\Программа Курсовой (Старцев ИС-19)\VeloMEN_project\VeloMEN_project\bin\Debug\VeloMEN_project.exe.config
+C:\Users\usersql\Desktop\Программа Курсовой (Старцев ИС-19)\VeloMEN_project\VeloMEN_project\bin\Debug\VeloMEN_project.exe
+C:\Users\usersql\Desktop\Программа Курсовой (Старцев ИС-19)\VeloMEN_project\VeloMEN_project\bin\Debug\VeloMEN_project.pdb
+C:\Users\usersql\Desktop\Программа Курсовой (Старцев ИС-19)\VeloMEN_project\VeloMEN_project\bin\Debug\ru\VeloMEN_project.resources.dll
+C:\Users\usersql\Desktop\Программа Курсовой (Старцев ИС-19)\VeloMEN_project\VeloMEN_project\obj\Debug\VeloMEN_project.csproj.AssemblyReference.cache
+C:\Users\usersql\Desktop\Программа Курсовой (Старцев ИС-19)\VeloMEN_project\VeloMEN_project\obj\Debug\VeloMEN_project.Forma.resources
+C:\Users\usersql\Desktop\Программа Курсовой (Старцев ИС-19)\VeloMEN_project\VeloMEN_project\obj\Debug\VeloMEN_project.Properties.Resources.resources
+C:\Users\usersql\Desktop\Программа Курсовой (Старцев ИС-19)\VeloMEN_project\VeloMEN_project\obj\Debug\VeloMEN_project.Forma.ru.resources
+C:\Users\usersql\Desktop\Программа Курсовой (Старцев ИС-19)\VeloMEN_project\VeloMEN_project\obj\Debug\VeloMEN_project.csproj.GenerateResource.cache
+C:\Users\usersql\Desktop\Программа Курсовой (Старцев ИС-19)\VeloMEN_project\VeloMEN_project\obj\Debug\VeloMEN_project.csproj.CoreCompileInputs.cache
+C:\Users\usersql\Desktop\Программа Курсовой (Старцев ИС-19)\VeloMEN_project\VeloMEN_project\obj\Debug\ru\VeloMEN_project.resources.dll
+C:\Users\usersql\Desktop\Программа Курсовой (Старцев ИС-19)\VeloMEN_project\VeloMEN_project\obj\Debug\VeloMEN_project.exe
+C:\Users\usersql\Desktop\Программа Курсовой (Старцев ИС-19)\VeloMEN_project\VeloMEN_project\obj\Debug\VeloMEN_project.pdb
+C:\Users\Данил\Desktop\Программа Курсовой (Старцев ИС-19)\VeloMEN_project\VeloMEN_project\bin\Debug\VeloMEN_project.exe.config
+C:\Users\Данил\Desktop\Программа Курсовой (Старцев ИС-19)\VeloMEN_project\VeloMEN_project\bin\Debug\VeloMEN_project.exe
+C:\Users\Данил\Desktop\Программа Курсовой (Старцев ИС-19)\VeloMEN_project\VeloMEN_project\bin\Debug\VeloMEN_project.pdb
+C:\Users\Данил\Desktop\Программа Курсовой (Старцев ИС-19)\VeloMEN_project\VeloMEN_project\bin\Debug\ru\VeloMEN_project.resources.dll
+C:\Users\Данил\Desktop\Программа Курсовой (Старцев ИС-19)\VeloMEN_project\VeloMEN_project\obj\Debug\VeloMEN_project.csproj.AssemblyReference.cache
+C:\Users\Данил\Desktop\Программа Курсовой (Старцев ИС-19)\VeloMEN_project\VeloMEN_project\obj\Debug\VeloMEN_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Данил\Desktop\Программа Курсовой (Старцев ИС-19)\VeloMEN_project\VeloMEN_project\obj\Debug\VeloMEN_project.Forma.resources
+C:\Users\Данил\Desktop\Программа Курсовой (Старцев ИС-19)\VeloMEN_project\VeloMEN_project\obj\Debug\VeloMEN_project.Properties.Resources.resources
+C:\Users\Данил\Desktop\Программа Курсовой (Старцев ИС-19)\VeloMEN_project\VeloMEN_project\obj\Debug\VeloMEN_project.Forma.ru.resources
+C:\Users\Данил\Desktop\Программа Курсовой (Старцев ИС-19)\VeloMEN_project\VeloMEN_project\obj\Debug\VeloMEN_project.csproj.GenerateResource.cache
+C:\Users\Данил\Desktop\Программа Курсовой (Старцев ИС-19)\VeloMEN_project\VeloMEN_project\obj\Debug\VeloMEN_project.csproj.CoreCompileInputs.cache
+C:\Users\Данил\Desktop\Программа Курсовой (Старцев ИС-19)\VeloMEN_project\VeloMEN_project\obj\Debug\ru\VeloMEN_project.resources.dll
+C:\Users\Данил\Desktop\Программа Курсовой (Старцев ИС-19)\VeloMEN_project\VeloMEN_project\obj\Debug\VeloMEN_project.exe
+C:\Users\Данил\Desktop\Программа Курсовой (Старцев ИС-19)\VeloMEN_project\VeloMEN_project\obj\Debug\VeloMEN_project.pdb
+C:\Users\usersql\Desktop\Программа Курсовой (Старцев ИС-19)\VeloMEN_project\VeloMEN_project\obj\Debug\VeloMEN_project.csproj.SuggestedBindingRedirects.cache
